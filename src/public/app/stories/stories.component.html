@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col-md-4">
+    <a>Backlog</a>
+  </div>
+  <div class="col-md-6">
+    Backlog Stories
+    <div *ngFor="let story of stories">
+      <span>{{story.ticketId}}  {{story.projectDescription}}</span><br/>
+      <span>{{story.priority}} {{story.status}}</span>
+    </div>
+  </div>
+</div>

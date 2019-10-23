@@ -35,7 +35,7 @@
     "handlebars-helpers": "^0.9.6",
     "handlebars-layouts": "^3.1.4",
     "hbs": "~4.0.1",
-    "mongoose": "^4.11.5",
+    "mongoose": "^5.7.5",
     "morgan": "~1.8.2",
     "rxjs": "5.4.2",
     "serve-favicon": "~2.4.3",
